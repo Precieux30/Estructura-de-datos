@@ -1,0 +1,16 @@
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\Colas.exe
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\Colas.deps.json
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\Colas.runtimeconfig.json
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\Colas.runtimeconfig.dev.json
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\Colas.dll
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\ref\Colas.dll
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\bin\Debug\net5.0\Colas.pdb
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.csprojAssemblyReference.cache
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.AssemblyInfoInputs.cache
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.AssemblyInfo.cs
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.csproj.CoreCompileInputs.cache
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.dll
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\ref\Colas.dll
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.pdb
+C:\Users\EXPECTRUM\source\repos\Colas\Colas\obj\Debug\net5.0\Colas.genruntimeconfig.cache
