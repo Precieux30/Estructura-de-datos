@@ -1,0 +1,16 @@
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\Listas.exe
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\Listas.deps.json
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\Listas.dll
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\ref\Listas.dll
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\bin\Debug\net5.0\Listas.pdb
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.csprojAssemblyReference.cache
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.dll
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\ref\Listas.dll
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.pdb
+C:\Users\EXPECTRUM\source\repos\Listas\Listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache
